@@ -1,0 +1,99 @@
+
+ title: 
+ Homozygous splicing mutation in NUP133 causes Galloway-Mowat syndrome.
+
+ abstract: 
+ OBJECTIVE: Galloway-Mowat syndrome (GAMOS) is a neural and renal disorder, characterized by microcephaly, brain anomalies, and early onset nephrotic syndrome. Biallelic mutations in WDR73 and the 4 subunit genes of the KEOPS complex are reported to cause GAMOS. Furthermore, an identical homozygous NUP107 (nucleoporin 107kDa) mutation was identified in 4 GAMOS-like families, although biallelic NUP107 mutations were originally identified in steroid-resistant nephrotic syndrome. NUP107 and NUP133 (nucleoporin 133kDa) are interacting subunits of the nuclear pore complex in the nuclear envelope during interphase, and these proteins are also involved in centrosome positioning and spindle assembly during mitosis. METHODS: Linkage analysis and whole exome sequencing were performed in a previously reported GAMOS family with brain atrophy and steroid-resistant nephrotic syndrome. RESULTS: We identified a homozygous NUP133 mutation, c.3335-11T>A, which results in the insertion of 9bp of intronic sequence between exons 25 and 26 in the mutant transcript. NUP133 and NUP107 interaction was impaired by the NUP133 mutation based on an immunoprecipitation assay. Importantly, focal cortical dysplasia type IIa was recognized in the brain of an autopsied patient and focal segmental glomerulosclerosis was confirmed in the kidneys of the 3 examined patients. A nup133-knockdown zebrafish model exhibited microcephaly, fewer neuronal cells, underdeveloped glomeruli, and fusion of the foot processes of the podocytes, which mimicked human GAMOS features. nup133 morphants could be rescued by human wild-type NUP133 mRNA but not by mutant mRNA. INTERPRETATION: These data indicate that the biallelic NUP133 loss-of-function mutation causes GAMOS. Ann Neurol 2018;84:814-828.
+
+ abstract: 
+ ['2018/11/15 06:00']
+
+ title: 
+ Nephrological and urological complications of homozygous c.974G>A (p.Arg325Gln) OSGEP mutations.
+
+ abstract: 
+ BACKGROUND: Galloway-Mowat syndrome (GAMOS) (OMIM #251300) is a severe autosomal recessive disease characterized by the combination of early-onset steroid-resistant nephrotic syndrome (SRNS) and microcephaly with brain anomalies caused by WDR73 as well as OSGEP, TP53RK, TPRKB, or LAGE3 mutations. OBJECTIVE: We report on the hitherto undescribed urological and nephrological complications of the homozygous c.974G>A (p.Arg325Gln) OSGEP mutations in a 7-year-old Caucasian girl. CASE DIAGNOSIS: The patient came to the attention of pediatric nephrology at the age of 3 years and 11 months, when she presented with status epilepticus due to profound hypomagnesemia (0.31 mmol/L, normal 0.65-1.05). A 24-h urine demonstrated a magnesium loss of 0.6 mmol/kg/day with associated proteinuria suggesting renal tubulopathy. Subsequently, she developed recurrent urinary tract infections (UTIs) and was diagnosed with neurogenic bladder dysfunction. The patient continued to have UTIs associated with seizures and sequential cultures growing multi-drug-resistant organisms despite of antibiotic prophylaxis. In addition, the proteinuria (median microalbumin/creatinine ratio 647 mg/mmol) increased, and she developed partial Fanconi syndrome. At age 7, she developed a large bladder calculus (3.3 x 3.2 cm) and three left non-obstructing renal calculi associated with elevated urinary cystine, hypercalciuria, and ongoing hypomagnesemia and required surgical intervention. Glomerular filtration rate (GFR) remained normal and she never developed frank nephrotic syndrome (average albumin 31 g/L). CONCLUSIONS: It is unclear if patients with OSGEP mutations with tubular symptoms rather than nephrotic syndrome should be considered a different entity. Nephrological and urological complications of OSGEP mutations can be challenging and require a multidisciplinary approach.
+
+ abstract: 
+ ['2018/08/25 06:00']
+
+ title: 
+ Extending the ophthalmological phenotype of Galloway-Mowat syndrome with distinct retinal dysfunction: a report and review of ocular findings.
+
+ abstract: 
+ BACKGROUND: Galloway-Mowat syndrome (GMS) is a rare autosomal recessive condition first described in 1968 and characterized by microcephaly and infantile onset of central nervous system (CNS) abnormalities resulting in severely delayed psychomotor development, cerebellar atrophy, epilepsy, and ataxia, as well as renal abnormalities such as nephrotic syndrome, proteinuria, end-stage renal disease (ESRD), and hiatal hernia. CASE PRESENTATION: We describe a GMS case diagnosed with homozygous missense mutation in the WDR73 gene, with absence of renal abnormalities. We expanded the clinical phenotype of GMS with WDR73 gene defect to include retinal dysfunction with missense mutation and developmental dysplasia of the hip. We compared eye findings of our case to previously reported cases, and we present an electroretinogram (ERG) picture for the first time in the literature. CONCLUSION: We recommend that clinicians screen patients with GM syndrome for retinal dysfunction and that a skeletal survey should be done to detect developmental dysplasia of the hip (DDH) so as to provide for early intervention.
+
+ abstract: 
+ ['2018/06/23 06:00']
+
+ title: 
+ An Amish founder mutation disrupts a PI(3)P-WHAMM-Arp2/3 complex-driven autophagosomal remodeling pathway.
+
+ abstract: 
+ Actin nucleation factors function to organize, shape, and move membrane-bound organelles, yet they remain poorly defined in relation to disease. Galloway-Mowat syndrome (GMS) is an inherited disorder characterized by microcephaly and nephrosis resulting from mutations in the WDR73 gene. This core clinical phenotype appears frequently in the Amish, where virtually all affected individuals harbor homozygous founder mutations in WDR73 as well as the closely linked WHAMM gene, which encodes a nucleation factor. Here we show that patient cells with both mutations exhibit cytoskeletal irregularities and severe defects in autophagy. Reintroduction of wild-type WHAMM restored autophagosomal biogenesis to patient cells, while inactivation of WHAMM in healthy cell lines inhibited lipidation of the autophagosomal protein LC3 and clearance of ubiquitinated protein aggregates. Normal WHAMM function involved binding to the phospholipid PI(3)P and promoting actin nucleation at nascent autophagosomes. These results reveal a cytoskeletal pathway controlling autophagosomal remodeling and illustrate several molecular processes that are perturbed in Amish GMS patients.
+
+ abstract: 
+ ['2017/07/20 06:00']
+
+ title: 
+ Homozygous mutation in NUP107 leads to microcephaly with steroid-resistant nephrotic condition similar to Galloway-Mowat syndrome.
+
+ abstract: 
+ BACKGROUND: Microcephaly with nephrotic syndrome is a rare co-occurrence, constituting the Galloway-Mowat syndrome (GAMOS), caused by mutations in WDR73 (OMIM: 616144). However, not all patients harbour demonstrable WDR73 deleterious variants, suggesting that there are other yet unidentified factors contributing to GAMOS aetiology. METHODS: Autozygosity mapping and candidate analysis was used to identify deleterious variants in consanguineous families. Analysis of patient fibroblasts was used to study splicing and alterations in cellular function. RESULTS: In two consanguineous families with five affected individuals from Turkey with a GAMOS-like presentation, we identified a shared homozygous variant leading to partial exon 4 skipping in nucleoporin, 107-KD (NUP107). The founder mutation was associated with concomitant reduction in NUP107 protein and in the obligate binding partner NUP133 protein, as well as density of nuclear pores in patient cells. CONCLUSION: Recently, NUP107 was suggested as a candidate in a family with nephrotic syndrome and developmental delay. Other NUP107-reported cases had isolated renal phenotypes. With the addition of these individuals, we implicate an allele-specific critical role for NUP107 in the regulation of brain growth and a GAMOS-like presentation.
+
+ abstract: 
+ ['2017/03/11 06:00']
+
+ title: 
+ WDR73 missense mutation causes infantile onset intellectual disability and cerebellar hypoplasia in a consanguineous family.
+
+ abstract: 
+ Galloway-Mowat syndrome (GMS) is a very rare autosomal-recessive disorder characterized by nephrotic syndrome associated with microcephaly, and various central nervous system abnormalities, mostly cerebral hypoplasia or cerebellar atrophy, intellectual disability and neural-migration defects. WDR73 is the only gene known to cause GMS, and has never been implicated in other disease. Here we present a Chinese consanguineous family with infantile onset intellectual disability and cerebellar hypoplasia but no microcephaly. Whole exome sequencing identified a WDR73 p.W371G missense mutation. The mutation is confirmed to be segregated in this family by Sanger sequencing according to a recessive inheritance pattern. It is predicted to be deleterious by multiple algorithms and affect highly conserved site. Structural modeling revealed conformational differences between the wild type protein and the p.W371G protein. Real-time PCR and Western blotting revealed altered mRNA and protein levels in mutated samples. Our study indicates the novel WDR73 p.W371G missense mutation causes infantile onset intellectual disability and cerebellar hypoplasia in recessive mode of inheritance. Our findings imply that microcephaly is a variable phenotype in WDR73-related disease, suggest WDR73 to be a candidate gene of severe intellectual disability and cerebellar hypoplasia, and expand the molecular spectrum of WDR73-related disease.
+
+ abstract: 
+ ['2016/12/17 06:00']
+
+ title: 
+ Extending the mutation spectrum for Galloway-Mowat syndrome to include homozygous missense mutations in the WDR73 gene.
+
+ abstract: 
+ Galloway-Mowat syndrome is a rare autosomal-recessive disorder classically described as the combination of microcephaly and nephrotic syndrome. Recently, homozygous truncating mutations in WDR73 (WD repeat domain 73) were described in two of 31 unrelated families with Galloway-Mowat syndrome which was followed by a report of two sibs in an Egyptian consanguineous family. In this report, seven affecteds from four families showing biallelic missense mutations in WDR73 were identified by exome sequencing and confirmed to follow a recessive model of inheritance. Three-dimensional modeling predicted conformational alterations as a result of the mutation, supporting pathogenicity. An additional 13 families with microcephaly and renal phenotype were negative for WDR73 mutations. Missense mutations in the WDR73 gene are reported for the first time in Galloway-Mowat syndrome. A detailed phenotypic comparison of all reported WDR73-linked Galloway-Mowat syndrome patients with WDR73 negative patients showed that WDR73 mutations are limited to those with classical Galloway-Mowat syndrome features, in addition to cerebellar atrophy, thin corpus callosum, brain stem hypoplasia, occasional coarse face, late-onset and mostly slow progressive nephrotic syndrome, and frequent epilepsy.
+
+ abstract: 
+ ['2016/03/23 06:00']
+
+ title: 
+ WDR73 Mutations Cause Infantile Neurodegeneration and Variable Glomerular Kidney Disease.
+
+ abstract: 
+ Infantile-onset cerebellar atrophy (CA) is a clinically and genetically heterogeneous trait. Galloway-Mowat syndrome (GMS) is a rare autosomal recessive disease, characterized by microcephaly with brain anomalies including CA in some cases, intellectual disability, and early-infantile-onset nephrotic syndrome. Very recently, WDR73 deficiency was identified as the cause of GMS in five individuals. To evaluate the role of WDR73 mutations as a cause of GMS and other forms of syndromic CA, we performed Sanger or exome sequencing in 51 unrelated patients with CA and variable brain anomalies and in 40 unrelated patients with a diagnosis of GMS. We identified 10 patients from three CA and from two GMS families with WDR73 mutations including the original family described with CA, mental retardation, optic atrophy, and skin abnormalities (CAMOS). There were five novel mutations, of which two were truncating and three were missense mutations affecting highly conserved residues. Individuals carrying homozygous WDR73 mutations mainly presented with a pattern of neurological and neuroimaging findings as well as intellectual disability, while kidney involvement was variable. We document postnatal onset of CA, a retinopathy, basal ganglia degeneration, and short stature as novel features of WDR73-related disease, and define WDR73-related disease as a new entity of infantile neurodegeneration.
+
+ abstract: 
+ ['2015/07/01 06:00']
+
+ title: 
+ Recessive nephrocerebellar syndrome on the Galloway-Mowat syndrome spectrum is caused by homozygous protein-truncating mutations of WDR73.
+
+ abstract: 
+ We describe a novel nephrocerebellar syndrome on the Galloway-Mowat syndrome spectrum among 30 children (ages 1.0 to 28 years) from diverse Amish demes. Children with nephrocerebellar syndrome had progressive microcephaly, visual impairment, stagnant psychomotor development, abnormal extrapyramidal movements and nephrosis. Fourteen died between ages 2.7 and 28 years, typically from renal failure. Post-mortem studies revealed (i) micrencephaly without polymicrogyria or heterotopia; (ii) atrophic cerebellar hemispheres with stunted folia, profound granule cell depletion, Bergmann gliosis, and signs of Purkinje cell deafferentation; (iii) selective striatal cholinergic interneuron loss; and (iv) optic atrophy with delamination of the lateral geniculate nuclei. Renal tissue showed focal and segmental glomerulosclerosis and extensive effacement and microvillus transformation of podocyte foot processes. Nephrocerebellar syndrome mapped to 700 kb on chromosome 15, which contained a single novel homozygous frameshift variant (WDR73 c.888delT; p.Phe296Leufs*26). WDR73 protein is expressed in human cerebral cortex, hippocampus, and cultured embryonic kidney cells. It is concentrated at mitotic microtubules and interacts with alpha-, beta-, and gamma-tubulin, heat shock proteins 70 and 90 (HSP-70; HSP-90), and the carbamoyl phosphate synthetase 2/aspartate transcarbamylase/dihydroorotase multi-enzyme complex. Recombinant WDR73 p.Phe296Leufs*26 and p.Arg256Profs*18 proteins are truncated, unstable, and show increased interaction with alpha- and beta-tubulin and HSP-70/HSP-90. Fibroblasts from patients homozygous for WDR73 p.Phe296Leufs*26 proliferate poorly in primary culture and senesce early. Our data suggest that in humans, WDR73 interacts with mitotic microtubules to regulate cell cycle progression, proliferation and survival in brain and kidney. We extend the Galloway-Mowat syndrome spectrum with the first description of diencephalic and striatal neuropathology.
+
+ abstract: 
+ ['2015/06/14 06:00']
+
+ title: 
+ Nonsense mutation in the WDR73 gene is associated with Galloway-Mowat syndrome.
+
+ abstract: 
+ BACKGROUND: Neuroanatomical defects are often present in children with severe developmental delay and intellectual disabilities. Few genetic loci have been associated with disorders of neurodevelopment. Our objective of the present study was to analyse a consanguineous Arab family showing some of the hallmark signs of a rare cerebellar hypoplasia-related neurodevelopmental syndrome as a strategy for discovering a causative genetic mutation. METHODS: We used whole exome sequencing to identify the causative mutation in two female siblings of a consanguineous Arab family showing some of the hallmark signs of a cerebellar-hypoplasia-related neurodevelopmental disorder. Direct Sanger sequencing was used to validate the candidate mutations that cosegregated with the phenotype. Gene expression and loss of function studies were carried out in the zebrafish model system to examine the role of the candidate gene in neurodevelopment. RESULTS: Patients presented with severe global developmental delay, intellectual disability, hypoplasia of the cerebellum and biochemical findings suggestive of nephrotic disease. Whole exome sequencing of the two patients revealed a shared nonsense homozygous variant in WDR73 (p.Q235X (c.703C>T)) resulting in loss of the last 144 amino acids of the protein. The variant segregated according to a recessive mode of inheritance in this family and was absent from public and our inhouse databases. We examined the developmental role of WDR73 using a loss-of-function paradigm in zebrafish. There was a significant brain growth and morphogenesis defect in wdr73 knockdown embryos resulting in a poorly differentiated midbrain and cerebellum. CONCLUSIONS: The results provide new insight into the functional role of WDR73 in brain development and show that perturbation of its function in an inherited disorder in humans is associated with cerebellar hypoplasia as well as nephrotic disease, consistent with Galloway-Mowat Syndrome.
+
+ abstract: 
+ ['2015/04/16 06:00']
+
+ title: 
+ Loss-of-function mutations in WDR73 are responsible for microcephaly and steroid-resistant nephrotic syndrome: Galloway-Mowat syndrome.
+
+ abstract: 
+ Galloway-Mowat syndrome is a rare autosomal-recessive condition characterized by nephrotic syndrome associated with microcephaly and neurological impairment. Through a combination of autozygosity mapping and whole-exome sequencing, we identified WDR73 as a gene in which mutations cause Galloway-Mowat syndrome in two unrelated families. WDR73 encodes a WD40-repeat-containing protein of unknown function. Here, we show that WDR73 was present in the brain and kidney and was located diffusely in the cytoplasm during interphase but relocalized to spindle poles and astral microtubules during mitosis. Fibroblasts from one affected child and WDR73-depleted podocytes displayed abnormal nuclear morphology, low cell viability, and alterations of the microtubule network. These data suggest that WDR73 plays a crucial role in the maintenance of cell architecture and cell survival. Altogether, WDR73 mutations cause Galloway-Mowat syndrome in a particular subset of individuals presenting with late-onset nephrotic syndrome, postnatal microcephaly, severe intellectual disability, and homogenous brain MRI features. WDR73 is another example of a gene involved in a disease affecting both the kidney glomerulus and the CNS.
+
+ abstract: 
+ ['2014/12/04 06:00']

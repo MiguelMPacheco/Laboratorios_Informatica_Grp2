@@ -1,0 +1,108 @@
+
+ title: 
+ shRNAmediated knockdown of KNTC1 suppresses cell viability and induces apoptosis in esophageal squamous cell carcinoma.
+
+ abstract: 
+ Kinetochoreassociated proteins are critical components of mitotic checkpoints, which are essential for faithful chromosomal segregation and spindle assembly during cell division. Recent advances have demonstrated that kinetochoreassociated proteins are upregulated and serve significant roles in the carcinogenesis of numerous types of cancer. However, the effects of kinetochoreassociated protein 1 (KNTC1) on human cancer, particularly on esophageal squamous cell carcinoma (ESCC), remain unclear. The present study revealed that KNTC1 was highly expressed in ESCC cell lines. Subsequently, lentivirusmediated short hairpin RNAs were used to knockdown KNTC1 expression in human ESCC cell lines. Cell growth and viability were measured using multiparametric highcontent screening and the MTT assay, respectively. Cell apoptosis was assessed by staining cells with Annexin Vallophycocyanin and was detected using FACScan flow cytometry. The results demonstrated that knockdown of KNTC1 effectively inhibited cell viability and increased apoptosis. In addition, a gene set enrichment analysis of online ESCC datasets indicated that KNTC1 overexpression was associated with increases in the mitotic spindle and hypoxia pathways, and decreases in the DNA repair and mismatch repair pathways. The findings of the present study suggested that KNTC1 may have an essential role in mediating cell viability and apoptosis in human ESCC cells and may serve as a novel therapeutic target for ESCC.
+
+ abstract: 
+ ['2019/01/11 06:00']
+
+ title: 
+ Dynamic kinetochore size regulation promotes microtubule capture and chromosome biorientation in mitosis.
+
+ abstract: 
+ Faithful chromosome segregation depends on the ability of sister kinetochores to attach to spindle microtubules. The outer layer of kinetochores transiently expands in early mitosis to form a fibrous corona, and compacts following microtubule capture. Here we show that the dynein adaptor Spindly and the RZZ (ROD-Zwilch-ZW10) complex drive kinetochore expansion in a dynein-independent manner. C-terminal farnesylation and MPS1 kinase activity cause conformational changes of Spindly that promote oligomerization of RZZ-Spindly complexes into a filamentous meshwork in cells and in vitro. Concurrent with kinetochore expansion, Spindly potentiates kinetochore compaction by recruiting dynein via three conserved short linear motifs. Expanded kinetochores unable to compact engage in extensive, long-lived lateral microtubule interactions that persist to metaphase, and result in merotelic attachments and chromosome segregation errors in anaphase. Thus, dynamic kinetochore size regulation in mitosis is coordinated by a single, Spindly-based mechanism that promotes initial microtubule capture and subsequent correct maturation of attachments.
+
+ abstract: 
+ ['2018/06/20 06:00']
+
+ title: 
+ Association between cell cycle gene transcription and tumor size in oral squamous cell carcinoma.
+
+ abstract: 
+ Higher tumor size correlates with poor prognosis and is an independent predictive survival factor in oral squamous cell carcinoma (OSCC) patients. However, the molecular events underlining OSCC tumor evolution are poorly understood. We aimed to investigate if large OSCC tumors show different cell cycle gene transcriptional signature compared to small tumors. Seventeen fresh OSCC tumor samples with different tumor sizes (T) were included in the study. Tumors were from the tongue or from the floor of the mouth, and only three patients were nonsmokers. Samples were categorized according to clinical tumor size in tumors </=2 cm (T1, n = 5) or tumors >2 cm (T2, n = 9; T3, n = 2; T4, n = 1). The group of tumors </=2 cm was considered the reference group, while the larger tumors were considered the test group. We assessed the expression of 84 cell cycle genes by qRT-PCR array and normalized it to the expression of two housekeeping genes. Results were analyzed according to the formula 2(^-DeltaCt). A five-fold change cutoff was used, and p values <0.05 were considered statistically significant. Ki-67 immunohistochemistry was performed to estimate cell proliferation index. Twenty-nine genes were downregulated in the test group (larger tumors) compared to the reference group (smaller tumors). Among these genes, 13 reached statistical significance: ANAPC4, CUL1, SUMO1, KPNA2, MAD2L2, CCNG2, E2F4, NBN, CUL2, PCNA, TFDP1, KNTC1, and ATR. Ki-67 labeling index was similar in both tumor groups. Our findings suggest that the transcriptional activity of specific cell cycle genes varies according to the size of OSCC tumor, which probably reflects tumor molecular evolution and adaptation to the microenvironment.
+
+ abstract: 
+ ['2015/07/09 06:00']
+
+ title: 
+ Distinct domains in Bub1 localize RZZ and BubR1 to kinetochores to regulate the checkpoint.
+
+ abstract: 
+ The spindle assembly checkpoint (SAC) ensures proper chromosome segregation by delaying anaphase onset in response to unattached kinetochores. Checkpoint signalling requires the kinetochore localization of the Mad1-Mad2 complex that in more complex eukaryotes depends on the Rod-Zwilch-ZW10 (RZZ) complex. The kinetochore protein Zwint has been proposed to be the kinetochore receptor for RZZ, but here we show that Bub1 and not Zwint is required for RZZ recruitment. We find that the middle region of Bub1 encompassing a domain essential for SAC signalling contributes to RZZ localization. In addition, we show that a distinct region in Bub1 mediates kinetochore localization of BubR1 through direct binding, but surprisingly removal of this region increases checkpoint strength. Our work thus uncovers how Bub1 coordinates checkpoint signalling by distinct domains for RZZ and BubR1 recruitment and suggests that Bub1 localizes antagonistic checkpoint activities.
+
+ abstract: 
+ ['2015/06/03 06:00']
+
+ title: 
+ A novel role of farnesylation in targeting a mitotic checkpoint protein, human Spindly, to kinetochores.
+
+ abstract: 
+ Kinetochore (KT) localization of mitotic checkpoint proteins is essential for their function during mitosis. hSpindly KT localization is dependent on the RZZ complex and hSpindly recruits the dynein-dynactin complex to KTs during mitosis, but the mechanism of hSpindly KT recruitment is unknown. Through domain-mapping studies we characterized the KT localization domain of hSpindly and discovered it undergoes farnesylation at the C-terminal cysteine residue. The N-terminal 293 residues of hSpindly are dispensable for its KT localization. Inhibition of farnesylation using a farnesyl transferase inhibitor (FTI) abrogated hSpindly KT localization without affecting RZZ complex, CENP-E, and CENP-F KT localization. We showed that hSpindly is farnesylated in vivo and farnesylation is essential for its interaction with the RZZ complex and hence KT localization. FTI treatment and hSpindly knockdown displayed the same mitotic phenotypes, indicating that hSpindly is a key FTI target in mitosis. Our data show a novel role of lipidation in targeting a checkpoint protein to KTs through protein-protein interaction.
+
+ abstract: 
+ ['2015/04/01 06:00']
+
+ title: 
+ Novel somatic frameshift mutations of genes related to cell cycle and DNA damage response in gastric and colorectal cancers with microsatellite instability.
+
+ abstract: 
+ AIMS AND BACKGROUND: Microsatellite instability (MSI) in sporadic gastric cancer (GC) and colorectal cancer (CRC) causes frameshift mutations in gene sequences that contribute to cancer pathogenesis. Many mutations have already been identified in these two cancer types, but some are still undiscovered. METHODS: We analyzed seven genes (cell cycle control and DNA damage signaling/repair-related genes) with seven or more mononucleotide repeats in 30 GC samples with high MSI (MSI-H), 15 GC samples with low MSI (MSI-L), 45 GC samples that were microsatellite stable (MSS), 33 CRC samples with MSI-H, 15 CRC samples with MSI-L, and 45 CRC samples that were MSS. Single-strand conformation polymorphism (SSCP) and DNA sequencing were used for the analysis. RESULTS: We found somatic frameshit mutations of the KNTC1 (6.7% GC, 12.1% CRC), ZC3H13 (3.3% GC, 15.2% CRC), CENPH (6.7% GC), TOPBP1 (3.0% CRC), NDCO80 (3.0% CRC), RIF1 (6.7% GC), and NBS1 (3.3% GC, 3.0% CRC) genes in the cancers with MSI-H. Mutations were detected in MSI-H, but not in MSI-L or MSS samples. CONCLUSIONS: Novel frameshift mutations occurred in seven genes in GC and CRC with MSI-H. The results of our study suggest that the mutations might contribute to the development of GC and CRC with MSI by deregulation of the cell cycle and DNA damage signaling/repair.
+
+ abstract: 
+ ['2011/03/11 06:00']
+
+ title: 
+ Array-based gene expression, CGH and tissue data defines a 12q24 gain in neuroblastic tumors with prognostic implication.
+
+ abstract: 
+ BACKGROUND: Neuroblastoma has successfully served as a model system for the identification of neuroectoderm-derived oncogenes. However, in spite of various efforts, only a few clinically useful prognostic markers have been found. Here, we present a framework, which integrates DNA, RNA and tissue data to identify and prioritize genetic events that represent clinically relevant new therapeutic targets and prognostic biomarkers for neuroblastoma. METHODS: A single-gene resolution aCGH profiling was integrated with microarray-based gene expression profiling data to distinguish genetic copy number alterations that were strongly associated with transcriptional changes in two neuroblastoma cell lines. FISH analysis using a hotspot tumor tissue microarray of 37 paraffin-embedded neuroblastoma samples and in silico data mining for gene expression information obtained from previously published studies including up to 445 healthy nervous system samples and 123 neuroblastoma samples were used to evaluate the clinical significance and transcriptional consequences of the detected alterations and to identify subsequently activated gene(s). RESULTS: In addition to the anticipated high-level amplification and subsequent overexpression of MYCN, MEIS1, CDK4 and MDM2 oncogenes, the aCGH analysis revealed numerous other genetic alterations, including microamplifications at 2p and 12q24.11. Most interestingly, we identified and investigated the clinical relevance of a previously poorly characterized amplicon at 12q24.31. FISH analysis showed low-level gain of 12q24.31 in 14 of 33 (42%) neuroblastomas. Patients with the low-level gain had an intermediate prognosis in comparison to patients with MYCN amplification (poor prognosis) and to those with no MYCN amplification or 12q24.31 gain (good prognosis) (P = 0.001). Using the in silico data mining approach, we identified elevated expression of five genes located at the 12q24.31 amplicon in neuroblastoma (DIABLO, ZCCHC8, RSRC2, KNTC1 and MPHOSPH9). Among these, DIABLO showed the strongest activation suggesting a putative role in neuroblastoma progression. CONCLUSIONS: The presented systematic and rapid framework, which integrates aCGH, gene expression and tissue data to obtain novel targets and biomarkers for cancer, identified a low-level gain of the 12q24.31 as a potential new biomarker for neuroblastoma progression. Furthermore, results of in silico data mining suggest a new neuroblastoma target gene, DIABLO, within this region, whose functional and therapeutic role remains to be elucidated in follow-up studies.
+
+ abstract: 
+ ['2010/05/07 06:00']
+
+ title: 
+ Modulations of cell cycle checkpoints during HCV associated disease.
+
+ abstract: 
+ BACKGROUND: Impaired proliferation of hepatocytes has been reported in chronic Hepatitis C virus infection. Considering the fundamental role played by cell cycle proteins in controlling cell proliferation, altered regulation of these proteins could significantly contribute to HCV disease progression and subsequent hepatocellular carcinoma (HCC). This study aimed to identify the alterations in cell cycle genes expression with respect to early and advanced disease of chronic HCV infection. METHODS: Using freshly frozen liver biopsies, mRNA levels of 84 cell cycle genes in pooled RNA samples from patients with early or advanced fibrosis of chronic HCV infection were studied. To associate mRNA levels with respective protein levels, four genes (p27, p15, KNTC1 and MAD2L1) with significant changes in mRNA levels (> 2-fold, p-value < 0.05) were selected, and their protein expressions were examined in the liver biopsies of 38 chronic hepatitis C patients. RESULTS: In the early fibrosis group, increased mRNA levels of cell proliferation genes as well as cell cycle inhibitor genes were observed. In the advanced fibrosis group, DNA damage response genes were up-regulated while those associated with chromosomal stability were down-regulated. Increased expression of CDK inhibitor protein p27 was consistent with its mRNA level detected in early group while the same was found to be negatively associated with liver fibrosis. CDK inhibitor protein p15 was highly expressed in both early and advanced group, but showed no correlation with fibrosis. Among the mitotic checkpoint regulators, expression of KNTC1 was significantly reduced in advanced group while MAD2L1 showed a non-significant decrease. CONCLUSION: Collectively these results are suggestive of a disrupted cell cycle regulation in HCV-infected liver. The information presented here highlights the potential of identified proteins as predictive factors to identify patients with high risk of cell transformation and HCC development.
+
+ abstract: 
+ ['2009/08/12 09:00']
+
+ title: 
+ Aurora B kinase-dependent recruitment of hZW10 and hROD to tensionless kinetochores.
+
+ abstract: 
+ The mitotic checkpoint ensures proper chromosome segregation by monitoring two critical events during mitosis. One is kinetochore attachment to the mitotic spindle, and the second is the alignment of chromosomes at the metaphase plate, resulting in tension across sister kinetochores (reviewed in [1, 2]). Mitotic-checkpoint proteins are known to accumulate at unaligned chromosomes that have not achieved proper kinetochore-microtubule attachments or established an adequate level of tension across sister kinetochores. Here, we report that hZW10 and hROD, two components of the evolutionarily conserved RZZ complex, accumulate at kinetochores in response to the loss of tension. By using live-cell imaging and FRAP, we showed that the accumulation of hZW10 at tensionless kinetochores stems from a 4-fold reduction of kinetochore turnover rate. We also found that cells lacking hZW10 escape loss-of-tension-induced mitotic-checkpoint arrest more rapidly than those arrested in response to the lack of kinetochore-microtubule attachments. Furthermore, we show that pharmacological inhibition of Aurora B kinase activity with ZM447439 in the absence of tension, but not in the absence of kinetochore-microtubule attachments, results in the loss of hZW10, hROD, and hBub1 from kinetochores. We therefore conclude that Aurora B kinase activity is required for the accumulation of tension-sensitive mitotic-checkpoint components, such as hZW10 and hROD, in order to maintain mitotic-checkpoint arrest.
+
+ abstract: 
+ ['2007/12/11 09:00']
+
+ title: 
+ Zwilch, a new component of the ZW10/ROD complex required for kinetochore functions.
+
+ abstract: 
+ The Zeste-White 10 (ZW10) and Rough Deal (ROD) proteins are part of a complex necessary for accurate chromosome segregation. This complex recruits cytoplasmic dynein to the kinetochore and participates in the spindle checkpoint. We used immunoaffinity chromatography and mass spectroscopy to identify the Drosophila proteins in this complex. We found that the complex contains an additional protein we name Zwilch. Zwilch localizes to kinetochores and kinetochore microtubules in a manner identical to ZW10 and ROD. We have also isolated a zwilch mutant, which exhibits the same mitotic phenotypes associated with zw10 and rod mutations: lagging chromosomes at anaphase and precocious sister chromatid separation upon activation of the spindle checkpoint. Zwilch's role within the context of this complex is evolutionarily conserved. The human Zwilch protein (hZwilch) coimmunoprecipitates with hZW10 and hROD from HeLa cell extracts and localizes to the kinetochores at prometaphase. Finally, we discuss immunoaffinity chromatography results that suggest the existence of a weak interaction between the ZW10/ROD/Zwilch complex and the kinesin-like kinetochore component CENP-meta.
+
+ abstract: 
+ ['2003/04/11 05:00']
+
+ title: 
+ The ZW10 and Rough Deal checkpoint proteins function together in a large, evolutionarily conserved complex targeted to the kinetochore.
+
+ abstract: 
+ The zeste-white 10 (zw10) and rough deal (rod) genes of Drosophila both encode kinetochore components, and mutations in either gene greatly increase the missegregation of sister chromatids during mitosis. Here, we present genetic, cytological and biochemical evidence for a close, evolutionarily conserved relationship between the ROD and ZW10 proteins. We show that the phenotypes caused by disruption of either gene's function are similar in Drosophila and in C. elegans. No additive effects are observed in zw10; rod double null mutants. In flies, the two proteins always colocalize and, moreover, require each other for their recruitment to the mitotic apparatus. The human ROD and ZW10 homologs also colocalize on HeLa cell kinetochores or kinetochore microtubules throughout most but not all of mitosis. Finally, we show that in both Drosophila and human cells, ROD and ZW10 are in fact physically associated, and in Drosophila these proteins are together constituents of a large (700-900 kDa), soluble macromolecular complex.
+
+ abstract: 
+ ['2001/10/09 10:00']
+
+ title: 
+ A Drosophila gene regulated by rough and glass shows similarity to ena and VASP.
+
+ abstract: 
+ rough (ro) encodes a homeobox transcription factor required for proper specification of photoreceptor cells R2 and R5 in Drosophila eye development. To identify the transcriptional targets through which ro acts to specify the R2/R5 neuronal sub-type, we screened enhancer trap lines expressed in developing photoreceptors for those whose expression patterns were altered when ro function was inactivated. In this way we identified two potential ro targets, which are also targets of the zinc finger transcription factor glass (gl). We also identified an enhancer trap line that exhibits altered morphogenetic furrow expression in a ro mutant background. Finally, we have molecularly characterized an enhancer trap line, AE33, that was identified in earlier screens as a target of both ro and gl (freeman et al., 1992; Treisman and Rubin, 1996). The transcript interrupted by AE33 shares similarity with the mammalian vasodilator-stimulated phosphoprotein (VASP), a substrate for cAMP- and cGMP-dependent protein kinases that is associated with actin filaments, focal adhesions, and dynamic membrane regions (Haffner et al., 1995) with enabled (ena), a substrate of the Drosophila Abl tyrosine kinase (Gertler et al. 1995) and with two human Expressed Sequence Tags (ESTs).
+
+ abstract: 
+ ['1996/12/12 00:00']

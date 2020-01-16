@@ -1,0 +1,72 @@
+
+ title: 
+ Reinterpreting polarity and cancer: The changing landscape from tumor suppression to tumor promotion.
+
+ abstract: 
+ Cell polarity is a fundamental property used to generate asymmetry and structure in all cells. Cancer is associated with loss of cell and tissue structure. While observations made in model system such as Drosophila, identify polarity regulators as tumor suppressors that cause inappropriate cell division, studies in mammalian epithelia do not always support such a causative contribution. Our analysis of published cancer dataset shows that many polarity genes, including PARD6B, SCRIB, PRKCI, DLG1, DLG2, DLG5 and LLGL2, are frequently amplified in multiple cancers raising the possibility that mammalian epithelia may have evolved to use polarity proteins in multiple ways where they may have tumor promoting functions. In this review, we reinterpret the published results and propose a modified perspective for the role of polarity regulators in cancer biology. In addition to the traditional form of cell polarity, which is involved establishment of maintenance of normal cell structure and asymmetry, we propose that some mammalian polarity proteins also regulate subcellular polarity (intracellular asymmetry), which can improve cellular fitness to carry out functions such as proliferation, apoptosis, stress adaptation, stemness and organelle biology. Here, we define subcellular polarity and discuss evidence that supports a role for subcellular polarity in biology.
+
+ abstract: 
+ ['2018/01/26 06:00']
+
+ title: 
+ Downregulation of PKCzeta/Pard3/Pard6b is responsible for lung adenocarcinoma cell EMT and invasion.
+
+ abstract: 
+ Atypical protein kinase C zeta (PKCzeta) forms an apico-basal polarity complex with Partitioning Defective (Pard) 3 and Pard6 to regulate normal epithelial cell apico-basolateral polarization. The dissociation of the PKCzeta/Pard3/Pard6 complex is essential for the disassembly of the tight/adherens junction and epithelial-mesenchymal transition (EMT) that is critical for tumor spreading. Loss of cell polarity and epithelial organization is strongly correlated with malignancy and tumor progression in some other cancer types. However, it is unclear whether the PKCzeta/Pard3/Pard6 complex plays a role in the progression of non-small-cell lung cancer (NSCLC). We found that hypoxia downregulated the PKCzeta/Pard3/Pard6 complex, correlating with induction of lung cancer cell migration and invasion. Silencing of the PKCzeta/Pard3/Pard6 polarity complex components induced lung cancer cell EMT, invasion, and colonization in vivo. Suppression of Pard3 was associated with altered expression of genes regulating wound healing, cell apoptosis/death and cell motility, and particularly upregulation of MAP3K1 and fibronectin which are known to contribute to lung cancer progression. Human lung adenocarcinoma tissues expressed less Pard6b and PKCzeta than the adjacent normal tissues and in experimental mouse lung adenocarcinoma, the levels of Pard3 and PKCzeta were also decreased. In addition, we showed that a methylation locus in the gene body of Pard3 is positively associated with the expression of Pard3 and that methylation of the Pard3 gene increased cellular sensitivity to carboplatin, a common chemotherapy drug. Suppression of Pard3 increased chemoresistance in lung cancer cells. Together, these results suggest that reduced expression of PKCzeta/Pard3/Pard6 contributes to NSCLC EMT, invasion, and chemoresistance.
+
+ abstract: 
+ ['2017/06/28 06:00']
+
+ title: 
+ A targeted RNAi screen identifies factors affecting diverse stages of receptor-mediated transcytosis.
+
+ abstract: 
+ Endosome transport by transcytosis is the primary mechanism by which proteins and other large cargo traverse epithelial barriers in normal tissue. Transcytosis is also essential for establishing and maintaining membrane polarity in epithelia and other polarized cells. To identify novel components of this pathway, we conducted a high-throughput RNA interference screen for factors necessary for the bidirectional transcytosis of IgG by the Fcgamma receptor FcRn. This screen identified 23 genes whose suppression resulted in a reproducible decrease in FcRn-mediated transcytosis. Pulse-chase kinetic transport assays on four of the top-ranking genes (EXOC2, EXOC7, PARD6B, and LEPROT) revealed distinct effects on the apical and basolateral recycling and transcytotic pathways, demonstrating that these pathways are genetically separable. We also found a strong dependence on PARD6B for apical, but not basolateral, recycling, implicating this cell polarity gene in assembly or maintenance of the apical endosomal system. This dataset yields insights into how vesicular transport is adapted to the specialized functions of differentiated cell types and opens new research avenues into epithelial trafficking.
+
+ abstract: 
+ ['2017/01/11 06:00']
+
+ title: 
+ Identification of focally amplified lineage-specific super-enhancers in human epithelial cancers.
+
+ abstract: 
+ Whole-genome analysis approaches are identifying recurrent cancer-associated somatic alterations in noncoding DNA regions. We combined somatic copy number analysis of 12 tumor types with tissue-specific epigenetic profiling to identify significant regions of focal amplification harboring super-enhancers. Copy number gains of noncoding regions harboring super-enhancers near KLF5, USP12, PARD6B and MYC are associated with overexpression of these cancer-related genes. We show that two distinct focal amplifications of super-enhancers 3' to MYC in lung adenocarcinoma (MYC-LASE) and endometrial carcinoma (MYC-ECSE) are physically associated with the MYC promoter and correlate with MYC overexpression. CRISPR/Cas9-mediated repression or deletion of a constituent enhancer within the MYC-LASE region led to significant reductions in the expression of MYC and its target genes and to the impairment of anchorage-independent and clonogenic growth, consistent with an oncogenic function. Our results suggest that genomic amplification of super-enhancers represents a common mechanism to activate cancer driver genes in multiple cancer types.
+
+ abstract: 
+ ['2015/12/15 06:00']
+
+ title: 
+ Association between DNA methylation and multidrug resistance in human glioma SHG-44 cells.
+
+ abstract: 
+ The aim of the present study was to evaluate the association between DNA methylation and multidrug resistance (MDR) in glioma and identify novel effectors responsible for MDR in human gliomas. An MDR glioma cell line, SGH-44/ADM, was developed using adriamycin (ADM) impulse treatment. Cryopreservation, recovery and withdrawal were performed to evaluate the stability of SGH-44/ADM cells. The adherence rate and cellular morphology were observed by microscopy, and the cell growth curve and doubling time were determined. DNA methylation was analyzed using a methylated DNA immunoprecipitation microarray chip (MeDIP-Chip). The cell cycle, Rh123 ingestion and exudation, and SGH-44/ADM apoptosis were analyzed by flow cytometry. SGH-44/ADM cells showed little difference as compared with parental cells, except that SGH-44/ADM cells were bigger in size with a wizened nucleus. Compared to SGH-44 cells, a larger proportion of SGH-44/ADM cells remained in G1 and S phase, as measured by flow cytometry. The MDR of SGH-44/ADM was associated with the upregulation of multi-drug resistance 1, prostaglandin-endoperoxide synthase 2 (COX-2); protein kinase C alpha (PKCalpha); however, the expression of these genes was not associated with DNA methylation. In the MeDIP-Chip analysis, 74 functions were markedly enhanced, and seven significant pathways were observed. Genes including SNAP47, ARRB2, PARD6B, TGFB1, VPS4B and CBLB were identified by gene ontology analysis. The predominant molecular mechanism of MDR in SGH-44/ADM cells was identified as exocytosis and efflux. The expression of COX-2, PKCalpha and P-glycoprotein (Pgp) was not found to be associated with DNA methylation. Genes including SNAP47, VAMP4 and VAMP3 may serve as the downstream effectors of Pgp, COX-2 or PKCalpha; however, further experiments are required to verify these observations.
+
+ abstract: 
+ ['2014/10/22 06:00']
+
+ title: 
+ Genome-wide association study on bipolar disorder in the Bulgarian population.
+
+ abstract: 
+ Bipolar disorder is a severe psychiatric disorder influenced by environmental and genetic factors. Genetic studies have implicated many variants in the disease's etiology but only few have been successfully replicated. We conducted a genome-wide association study (GWAS) on bipolar disorder in the Bulgarian population followed by a replication study of the top 100 single nucleotide polymorphisms (SNPs) showing the smallest P values. The GWAS was performed on 188 bipolar disorder patients and 376 control subjects genotyped on the Illumina 550 platform. The replication study was conducted on 122 patients and 328 controls. Although our study did not show any association P value that achieved genome-wide significance, and none of the top 100 SNPs reached the Bonferroni-corrected P value in the replication study, the plausible involvement of some variants cannot be entirely discarded. Three polymorphisms, rs8099939 [P = 2.12 x 10(-6), odds ratio (OR) = 1.95, 95% confidence interval (CI) = 1.43-2.67] in GRIK5, rs6122972 (P = 3.11 x 10(-6), OR = 2.02, 95% CI = 1.46-2.80) in PARD6B and rs2289700 (P = 9.14 x 10(-6), OR = 2.13, 95% CI = 1.53-2.95) in CTSH remained associated at a similar level after Mantel-Haenszel test for combining the results from the genome-wide and replication studies. A modest association was also detected for SNP rs1012053 (GWAS P = 4.50 x 10(-2)) in DGKH, which has already been reported as the most significant variant in a previous genome-wide scan on bipolar disorder. However, further studies using larger datasets are needed to identify variants with smaller effects that contribute to the risk of bipolar disorder.
+
+ abstract: 
+ ['2011/07/21 06:00']
+
+ title: 
+ Identification of target genes in breast cancer cells directly regulated by the SRC-3/AIB1 coactivator.
+
+ abstract: 
+ Steroid receptor coactivator-3 (SRC-3/AIB1) is a coactivator for nuclear receptors and other transcription factors and an oncogene that contributes to growth regulation and development of mammary and other tumor types. Because of its biological functions, it is important to identify genes regulated by SRC-3. However, because coactivators do not bind DNA directly, extensive work is required to determine whether genes identified by RNA profiling approaches are direct or indirect targets. Here, we report the use of chromatin immunoprecipitation (ChIP)-based assays that involve genomic mapping and computational analyses of immunoprecipitated DNA to identify SRC-3-binding target genes in estradiol (E2)-treated MCF-7 breast cancer cells. We identified 18 SRC-3 genomic binding sites and demonstrated estrogen receptor-alpha (ERalpha) binding to all of them. Both E2-dependent and -independent SRC-3/ERalpha-binding sites were identified. RNA polymerase II ChIP assays were used to determine the correlation between SRC-3 and ERalpha binding and recruitment of the transcriptional machinery. These assays, in conjunction with analyses of RNA obtained from E2-treated cells, lead to the identification of SRC-3/ERalpha-associated genes. The ability of SRC family coactivators to regulate the expression of one of these genes, PARD6B/Par6, was confirmed by using cells individually depleted of SRC-1, SRC-2, or SRC-3 by small interfering RNA. The method described herein can be used to identify genes regulated by non-DNA-binding factors, such as other coactivators or corepressors, as well as DNA-binding transcription factors, and provides information on their binding location that can accelerate further gene characterization.
+
+ abstract: 
+ ['2005/01/29 09:00']
+
+ title: 
+ The polarity-inducing kinase Par-1 controls Xenopus gastrulation in cooperation with 14-3-3 and aPKC.
+
+ abstract: 
+ Par (partitioning-defective) genes were originally identified in Caenorhabditis elegans as determinants of anterior/posterior polarity. However, neither their function in vertebrate development nor their action mechanism has been fully addressed. Here we show that two members of Par proteins, 14-3-3 (Par-5) and atypical PKC (aPKC), regulate the serine/threonine kinase Par-1 to control Xenopus gastrulation. We find first that Xenopus Par-1 (xPar-1) is essential for gastrulation but not for cell fate specification during early embryonic development. We then find that xPar-1 binds to 14-3-3 in an aPKC-dependent manner. Our analyses identify two aPKC phosphorylation sites in xPar-1, which are essential for 14-3-3 binding and for proper gastrulation movements. The aPKC phosphorylation-dependent binding of xPar-1 to 14-3-3 does not markedly affect the kinase activity of xPar-1, but induces relocation of xPar-1 from the plasma membranes to the cytoplasm. Finally, we show that Xenopus aPKC and its binding partner Xenopus Par-6 are also essential for gastrulation. Thus, our results identify a requirement of Par proteins for Xenopus gastrulation and reveal a novel interrelationship within Par proteins that may provide a general mechanism for spatial control of Par-1.
+
+ abstract: 
+ ['2004/09/03 05:00']
