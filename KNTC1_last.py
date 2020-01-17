@@ -46,7 +46,7 @@ for record in records_allseqs_KNTC1:
 records_allseqs_KNTC1=list(SeqIO.parse("allseqs_KNTC1.txt","gb"))
 
 feature_CDS_gene=[]
-list_NP=[]
+
 for record in records_allseqs_KNTC1:
     if record.id[:2] == "NG":
         for feat in record.features:
