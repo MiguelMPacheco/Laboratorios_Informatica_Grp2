@@ -1,0 +1,170 @@
+LOCUS       NP_055523               2209 aa            linear   PRI 22-AUG-2019
+DEFINITION  kinetochore-associated protein 1 [Homo sapiens].
+ACCESSION   NP_055523
+VERSION     NP_055523.1
+DBSOURCE    REFSEQ: accession NM_014708.6
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 2209)
+  AUTHORS   Liu CT, Min L, Wang YJ, Li P, Wu YD and Zhang ST.
+  TITLE     shRNAmediated knockdown of KNTC1 suppresses cell viability and
+            induces apoptosis in esophageal squamous cell carcinoma
+  JOURNAL   Int. J. Oncol. 54 (3), 1053-1060 (2019)
+   PUBMED   30628654
+  REMARK    GeneRIF: Kinetochoreassociated protein 1 (KNTC1) is highly
+            expressed in esophageal squamous cell carcinoma (ESCC) cell lines.
+            Knockdown of KNTC1 effectively inhibits cell viability and
+            increases apoptosis.
+REFERENCE   2  (residues 1 to 2209)
+  AUTHORS   Shimada M, Miyagawa T, Kawashima M, Tanaka S, Honda Y, Honda M and
+            Tokunaga K.
+  TITLE     An approach based on a genome-wide association study reveals
+            candidate loci for narcolepsy
+  JOURNAL   Hum. Genet. 128 (4), 433-441 (2010)
+   PUBMED   20677014
+  REMARK    GeneRIF: Observational study of gene-disease association. (HuGE
+            Navigator)
+REFERENCE   3  (residues 1 to 2209)
+  AUTHORS   Civril F, Wehenkel A, Giorgi FM, Santaguida S, Di Fonzo A,
+            Grigorean G, Ciccarelli FD and Musacchio A.
+  TITLE     Structural analysis of the RZZ complex reveals common ancestry with
+            multisubunit vesicle tethering machinery
+  JOURNAL   Structure 18 (5), 616-626 (2010)
+   PUBMED   20462495
+REFERENCE   4  (residues 1 to 2209)
+  AUTHORS   Chan YW, Fava LL, Uldschmid A, Schmitz MH, Gerlich DW, Nigg EA and
+            Santamaria A.
+  TITLE     Mitotic control of kinetochore-associated dynein and spindle
+            orientation by human Spindly
+  JOURNAL   J. Cell Biol. 185 (5), 859-874 (2009)
+   PUBMED   19468067
+REFERENCE   5  (residues 1 to 2209)
+  AUTHORS   Famulski JK and Chan GK.
+  TITLE     Aurora B kinase-dependent recruitment of hZW10 and hROD to
+            tensionless kinetochores
+  JOURNAL   Curr. Biol. 17 (24), 2143-2149 (2007)
+   PUBMED   18065224
+  REMARK    GeneRIF: Aurora B kinase activity is required for the accumulation
+            of tension-sensitive mitotic-checkpoint components, such as ZW10
+            and ROD, in order to maintain mitotic-checkpoint arrest.
+REFERENCE   6  (residues 1 to 2209)
+  AUTHORS   Williams BC, Li Z, Liu S, Williams EV, Leung G, Yen TJ and Goldberg
+            ML.
+  TITLE     Zwilch, a new component of the ZW10/ROD complex required for
+            kinetochore functions
+  JOURNAL   Mol. Biol. Cell 14 (4), 1379-1391 (2003)
+   PUBMED   12686595
+REFERENCE   7  (residues 1 to 2209)
+  AUTHORS   Scaerou F, Starr DA, Piano F, Papoulas O, Karess RE and Goldberg
+            ML.
+  TITLE     The ZW10 and Rough Deal checkpoint proteins function together in a
+            large, evolutionarily conserved complex targeted to the kinetochore
+  JOURNAL   J. Cell. Sci. 114 (Pt 17), 3103-3114 (2001)
+   PUBMED   11590237
+REFERENCE   8  (residues 1 to 2209)
+  AUTHORS   Chan GK, Jablonski SA, Starr DA, Goldberg ML and Yen TJ.
+  TITLE     Human Zw10 and ROD are mitotic checkpoint proteins that bind to
+            kinetochores
+  JOURNAL   Nat. Cell Biol. 2 (12), 944-947 (2000)
+   PUBMED   11146660
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC127002.3 and AC026333.28.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            Summary: This gene encodes a protein that is one of many involved
+            in mechanisms to ensure proper chromosome segregation during cell
+            division. Experimental evidence indicated that the encoded protein
+            functioned in a similar manner to that of the Drosophila rough deal
+            protein. [provided by RefSeq, Jul 2008].
+            
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC150278.1, D79988.1 [ECO:0000332]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000333479.12/ ENSP00000328236.6
+            RefSeq Select criteria :: based on conservation, longest protein
+            ##RefSeq-Attributes-END##
+FEATURES             Location/Qualifiers
+     source          1..2209
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="12"
+                     /map="12q24.31"
+     Protein         1..2209
+                     /product="kinetochore-associated protein 1"
+                     /note="Rough Deal homolog, centromere/kinetochore protein"
+                     /calculated_mol_wt=250619
+     Site            1035
+                     /site_type="phosphorylation"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (P50748.1)"
+     Site            1045
+                     /site_type="phosphorylation"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000244|PubMed:23186163};
+                     propagated from UniProtKB/Swiss-Prot (P50748.1)"
+     Region          1583..2127
+                     /region_name="Rod_C"
+                     /note="Rough deal protein C-terminal region; pfam10493"
+                     /db_xref="CDD:287465"
+     CDS             1..2209
+                     /gene="KNTC1"
+                     /gene_synonym="ROD"
+                     /coded_by="NM_014708.6:177..6806"
+                     /db_xref="CCDS:CCDS45002.1"
+                     /db_xref="GeneID:9735"
+                     /db_xref="HGNC:HGNC:17255"
+                     /db_xref="MIM:607363"
+ORIGIN      
+        1 mwndielltn ddtgsgylsv gsrkehgtal yqvdllvkis sekaslnpki qacslsdgfi
+       61 ivadqsvill dsicrslqlh lvfdtevdvv glcqegkfll vgersgnlhl ihvtskqtll
+      121 tnafvqkand enrrtyqnlv iekdgsnegt yymllltysg ffcitnlqll kiqqaienvd
+      181 fstakklqgq ikssfisten yhtlgclslv agdlasevpv iiggtgncaf skwepdsskk
+      241 gmtvknlida eiikgakkfq lidnllfvld tdnvlslwdi ytltpvwnwp slhveefllt
+      301 teadspssvt wqgitnlkli altasankkm knlmvyslpt meilyslevs svsslvqtgi
+      361 stdtiylleg vckndpklse dsvsvlvlrc ltealpenrl srllhkhrfa eaesfaiqfg
+      421 ldvelvykvk snhileklal ssvdaseqte wqqlvddake nlhkiqddef vvnyclkaqw
+      481 ityettqeml nyaktrllkk edktaliysd glkevlraha klttfygafg pekfsgsswi
+      541 eflnneddlk diflqlkegn lvcaqylwlr hranfesrfd vkmlesllns msasvslqkl
+      601 cpwfkndvip fvrrtvpegq iilakwleqa arnleltdka nwpenglqla eifftaektd
+      661 elglasswhw islkdyqnte evcqlrtlvn nlrelitlhr kyncklalsd fekentttiv
+      721 frmfdkvlap elipsilekf irvymrehdl qeeellllyi edllnrcssk stslfetawe
+      781 akamaviacl sdtdlifdav lkimyaavvp wsaaveqlvk qhlemdhpkv kllqesyklm
+      841 emkkllrgyg irevnllnke imrvvryilk qdvpssleda lkvaqafmls ddeiyslrii
+      901 dlidreqged cllllkslpp aeaektaerv iiwarlalqe epdhskegka wrmsvaktsv
+      961 dilkilcdiq kdnlqkkdec eemlklfkev aslqenfevf lsfedysnss lvadlreqhi
+     1021 kahevaqakh kpgstpepia aevrspsmes klhrqalalq mskqeleael tlralkdgni
+     1081 ktalkkcsdl fkyhcnadtg kllfltcqkl cqmladnvpv tvpvglnlps mihdlasqaa
+     1141 ticspdflld alelckhtlm avelsrqcqm ddcgilmkas fgthkdpyee wsysdffsed
+     1201 givlesqmvl pviyelissl vplaeskryp lestslpycs lnegdglvlp vinsisallq
+     1261 nlqessqwel alrfvvgsfg tclqhsvsnf mnatlseklf gettlvksrh vvmelkekav
+     1321 ifirenattl lhkvfncrlv dldlalgyct llpqkdvfen lwklidkawq nydkilaisl
+     1381 vgselaslyq eiemglkfre lstdaqwgir lgklgisfqp vfrqhfltkk dlikalveni
+     1441 dmdtsliley cstfqldcda vlqlfietll hntnagqgqg dasmdsakrr hpkllakale
+     1501 mvplltstkd lvislsgilh kldpydyemi evvlkviera dekitninin qalsilkhlk
+     1561 syrrisppvd leyqymlehv itlpsaaqtr lpfhliffgt aqnfwkilst elseesfptl
+     1621 llisklmkfs ldtlyvstak hvfekklkpk llkltqakss tlinkeitki tqtiesclls
+     1681 ivnpewavai aislaqdipe gsfkisalkf clylaerwlq nipsqdekre kaeallkklh
+     1741 iqyrrsgtea vliahklnte eylrvigkpa hlivslyehp sinqriqnss gtdypdihaa
+     1801 akeiaevnei nlekvwdmll ekwlcpstkp gekpselfel qedealrrvq ylllsrpidy
+     1861 ssrmlfvfat sttttlgmhq ltfahrtral qclfyladke tieslfkkpi eevksylrci
+     1921 tflasfetln ipityelfcs spkegmikgl wknhshesma vrlvtelcle ykiydlqlwn
+     1981 gllqkllgfn mipylrkvlk aissihslwq vpyfskawqr viqipllsas cplspdqlsd
+     2041 csesliavle cpvsgdldli gvarqyiqle lpafalaclm lmphsekrhq qiknflgscd
+     2101 pqvilkqlee hmntgqlagf shqirsliln niinkkefgi laktkyfqml kmhamntnni
+     2161 telvnyland lsldeasvli teyskhcgkp vppdtapcei lkmflsgls
+//
+
